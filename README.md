@@ -15,4 +15,6 @@ The function takes the parameters pxx, fs, l0, q, k.
 
 Remarks: Based on my signals I suggest a small value for l0 (between 5 and 10). The ration q should not be much bigger than 1 (example: 1,0005).
 
+A Matlab function is also found in the repository. It works in a similar way to Python code.
+
 The documentation found in gp_filter_doc.pdf explains in more detail how the filter works.
